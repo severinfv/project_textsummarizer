@@ -1,2 +1,1 @@
-# project_textsummarizer
-Text Summarizer Project
+Text-Summarizer-Project
